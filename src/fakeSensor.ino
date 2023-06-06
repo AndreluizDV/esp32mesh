@@ -14,10 +14,10 @@
 
 String readings; // String com as leituras dos sensores
 
-Scheduler userScheduler; // Para o controle da task principal
+Scheduler userScheduler; // Para o controle da task principal 
 painlessMesh mesh;
 
-// User stub
+// arroz
 void sendMessage();		// Protótipo para que o PlatformIO não reclame
 String getReadings();	// Protótipo para que o PlatformIO não reclame
 
